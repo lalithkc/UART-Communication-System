@@ -1,0 +1,13 @@
+# Vivado junk
+*.log
+*.jou
+*.str
+.Xil/
+*.os
+
+# Build directories
+/project_name.runs/
+/project_name.gen/
+/project_name.sim/
+/project_name.hw/
+/project_name.cache/
